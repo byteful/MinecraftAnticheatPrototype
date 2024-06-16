@@ -1,3 +1,4 @@
 name: "MinecraftAnticheatPrototype-Spigot"
 main: "me.byteful.anticheat.spigot.AnticheatPlugin"
 version: 1.0.0
+folia-supported: true
